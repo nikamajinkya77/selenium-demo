@@ -6,6 +6,7 @@ public class selenium_demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//ajinkya
+		//hello aj 
 		
 //		Select drop=new Select()
 		 WebDriverManager.chromedriver().setup();
@@ -16,3 +17,4 @@ public class selenium_demo {
 	}
 
 }
+
